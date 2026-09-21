@@ -1,0 +1,31 @@
+.header {
+    font-size: 28px;
+    font-weight: bold;
+    font-family: italic;
+    color: #000000;
+    top: 0; 
+    margin-bottom: 10px;
+    position: fixed;
+    width: 100%;
+    background-color: #663f3f;
+}   
+.container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #4f1e1e;
+    border-radius: 8px;
+    top: 60px;
+    position: relative;
+}
+h3 {
+    color: #863232;
+    position: relative;
+}
+.paragraphs {
+    color: #e6e6e6;
+    position: relative;
+    background-color: #000000;
+    padding: 20px;
+    border-radius: 20px;
+}
